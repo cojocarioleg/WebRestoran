@@ -2,14 +2,14 @@
 
 This is an individual project created for the purpose to create a Restoran website in Larave9. In this project are implemented several principles from Laravel:
 <br>
-1.Admin panel of Voyager
-2.insert product
-3.insert category
-4.Relationship: One To One, One To Many, Many To Many, One To Many (Inverse) / Belongs To
-5.leave a message
-6.reserve a meal
-7.events,
-ect..
-work time: 8 hours.
+1.Admin panel of Voyager<br>
+2.insert product<br>
+3.insert category<br>
+4.Relationship: One To One, One To Many, Many To Many, One To Many (Inverse) / Belongs To<br>
+5.leave a message<br>
+6.reserve a meal<br>
+7.events,<br>
+ect..<br>
+work time: 8 hours.<br>
 
 
